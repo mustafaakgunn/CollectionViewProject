@@ -1,1 +1,1 @@
-Places from World in CollectionView structure
+Places from the World in CollectionView structure
